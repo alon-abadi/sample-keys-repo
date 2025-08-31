@@ -1,0 +1,5 @@
+# This file is an example
+
+# key: AKIAJSIE27KKMHXI3BJQ
+
+# secret: 5bEYu26084qjSFyclM/f2pz4gviSfoOg+mFwBH39
